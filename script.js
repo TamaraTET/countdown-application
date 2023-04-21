@@ -30,7 +30,7 @@ dateEl.setAttribute('min', today);
 // Polulate Countdown / Complete UI
 function updateDOM() {
   countdownActive = setInterval(()=> {
-   const now = new Date().getTime;
+   const now = new Date().getTime();
    const distance = countdownValue - now;
    const days = Math.floor(distance / day);
    const hours = Math.floor((distance % day) / hour);
@@ -59,7 +59,7 @@ function updateDOM() {
   }, second);
 }
 
-const now = new Date().getTime;
+const now = new Date().getTime();
 const distance = countdownValue - now;
 console.log('distance', distance);
 
@@ -78,7 +78,7 @@ if (countdownDate === '') {
   alert('please select a date for countdown.');
 } else {
    // Get number version of current Date, updateDOM
-   countdownValue = new Date(countdownDate).getTime;
+   countdownValue = new Date(countdownDate).getTime();
    updateDOM();
 }
 }
@@ -104,7 +104,7 @@ function restorePreviousCountdown () {
     savedCountdown = JSON.parse(localStorage.getItem('countdown'));
     countdownTitle = savedCountdown.title;
     countdownDate = savedCountdown.date;
-    countdownValue = new Date(countdownDate).getTime;
+    countdownValue = new Date(countdownDate).getTime();
     updateDOM();
   }
 }
