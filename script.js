@@ -73,7 +73,7 @@ function updateCountdown(e) {
     date: countdownDate,
   };
   localStorage.setItem('countdown', JSON.stringify(savedCountdown));
-//  Check if no date entered
+//  Check for valid date
 if (countdownDate === '') {
   alert('please select a date for countdown.');
 } else {
