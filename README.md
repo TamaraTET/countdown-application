@@ -9,3 +9,7 @@ In addition, the project allows users to store their countdown information in Lo
 
 Technologies Used:
 HTML, CSS and JavaScript
+
+Screenshot of each page is added here:
+
+![countdown page](https://tamaratet.github.io/countdown-application/
