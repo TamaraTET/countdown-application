@@ -10,6 +10,5 @@ In addition, the project allows users to store their countdown information in Lo
 Technologies Used:
 HTML, CSS and JavaScript
 
-Screenshot of each page is added here:
+The website is hosted here: <a href="https://tamaratet.github.io/countdown-application/">Here</a>
 
-![countdown page](https://tamaratet.github.io/countdown-application/blob/master/src/img/completePage).PNG)
