@@ -12,4 +12,4 @@ HTML, CSS and JavaScript
 
 Screenshot of each page is added here:
 
-![countdown page](https://tamaratet.github.io/countdown-application/
+![countdown page](https://tamaratet.github.io/countdown-application/blob/master/src/img/completePage).PNG)
