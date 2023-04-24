@@ -12,7 +12,7 @@ HTML, CSS and JavaScript
 
 The website is hosted here: <a href="https://tamaratet.github.io/countdown-application/">Here</a>
 
-Images of page
+Images of each page
 
 The submit page: ![submit page](https://tamaratet.github.io/countdown-application/blob/master/src/img/countdownPage.PNG).png)
 
