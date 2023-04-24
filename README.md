@@ -14,7 +14,7 @@ The website is hosted here: <a href="https://tamaratet.github.io/countdown-appli
 
 Images of page
 
-The submit page: https://tamaratet.github.io/countdown-application/img/countdownPage.PNG
+The submit page: ![submit page](https://tamaratet.github.io/countdown-application/blob/master/src/img/countdownPage.PNG).png)
 
 
 
