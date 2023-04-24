@@ -16,6 +16,10 @@ Images of page
 
 The submit page: ![submit page](https://github.com/TamaraTET/countdown-application/blob/master/img/countdownPage.PNG)
 
+The reset page: ![reset page](https://github.com/TamaraTET/countdown-application/blob/master/img/resetPage.PNG)
+
+
+
 
 
 
